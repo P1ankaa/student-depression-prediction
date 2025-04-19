@@ -69,6 +69,14 @@ Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji stanu
 
 ---
 
+## 📊 Wyniki modelu
+
+- **🔍 Logistic Regression**
+- **✅ Accuracy**: 0.83  
+- **📉 Precision**: 0.84  
+- **📈 Recall**: 0.83  
+- **🧮 F1-score**: 0.83  
+
 ## 📄 Licencja
 
 Ten projekt jest objęty licencją MIT.
