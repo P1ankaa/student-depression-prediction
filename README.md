@@ -24,36 +24,6 @@ Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji stanu
 
 ---
 
-## ▶️ Jak uruchomić
-
-1. 🔽 Sklonuj repozytorium:
-
-   ```bash
-   git clone https://github.com/P1ankaa/student-depression-prediction.git
-   cd student-depression-prediction
-   ```
-
-2. 🧪 (Opcjonalnie) Stwórz i aktywuj środowisko wirtualne:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate       # lub `venv\Scripts\activate` na Windows
-   ```
-
-3. 📦 Zainstaluj zależności:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. 🚀 Uruchom notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ## 📚 Dane
 
 📂 Zbiór danych pochodzi z [Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data) i zawiera informacje o uczniach, takie jak:
